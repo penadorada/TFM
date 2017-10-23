@@ -192,7 +192,7 @@ durbinWatsonTest(disp)
 # However, it provides some useful information for landlords like the variables that may affect the availability:
 # R summary function displays the results of a hypothesis contrast with F statistic where null hypothesis states that
 # there is no linear relationship between availability_30 and the predictors (b1=b2=...bi=0). A p-value < 2.2e-16 allows us to
-# reject Ho, or allows us to predict with more than 99% of accuracy that predictors are associated with the 
+# reject Ho, or allows us to predict with more than 99% level of confidence that predictors are associated with the 
 # availability of listings in Madrid. 
 #
 # The most interesting findings of the analysis regards to neighbourhoods and room type:
@@ -217,7 +217,7 @@ durbinWatsonTest(disp)
 #     - instant bookable: yes
 #     - Cancellation Policy: moderate
 # 5) Pay special attention to:
-#     - Price: take into account that guests pay more attention to pax rather than to overall price.
+#     - Price: bear in mind that guests pay more attention to price per person rather than to overall price.
 #     - Minimum nights. Greed is not recommended
 
 #.............................................................................................................
