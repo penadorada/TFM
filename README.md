@@ -8,7 +8,7 @@
 
 #### GOAL
 
-- Build a decision  tool for landlords in order to maximize real state income in MADRID. Residential vs Vacation rentals
+- Build a decision  tool for landlords in order to maximize real state income in MADRID. Residential vs Vacation rentals.
 
 #### WORKFLOW
 
@@ -18,9 +18,9 @@
 
 3) Modelling:       Data Analysis folder (Linear Regression & Machine Learning).
 
-4) Data Analysis:   Idealista_Airbnb folder
+4) Data Analysis:   Idealista_Airbnb folder.
 
-5) Visualization:   Visualization folder
+5) Visualization:   Visualization folder.
 
 ![](https://github.com/penadorada/TFM/blob/master/VISUALIZATION/choromad2.png)
 
