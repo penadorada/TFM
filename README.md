@@ -2,23 +2,27 @@
 
 ### DATA SCIENCE MASTER PROJECT 
 
+#### DATA
+- InsideAirbnb dataset
+- Idealista dataset
+
 #### GOAL
 
-- Build a decision  tool for landlords in order to maximize real state income in MADRID. Residential vs Vacational rents
+- Build a decision  tool for landlords in order to maximize real state income in MADRID. Residential vs Vacation rentals
 
 #### WORKFLOW
 
-1) DATA GATHERING ---> Datasets folder (all files required to run code).
+1) Data Gathering:  Datasets folder (all files required to run code).
 
-2) DATA CLEANING ----> Data cleaning Folder.
+2) Data Cleaning:   Data cleaning Folder.
 
-3) MODELLING --------> Data Analysis folder (Linear Regression & Machine Learning).
+3) Modelling:       Data Analysis folder (Linear Regression & Machine Learning).
 
-4) DATA ANALYSIS-----> Idealista_Airbnb folder
+4) Data Analysis:   Idealista_Airbnb folder
 
-5) VISUALIAZTION-----> Visualization folder
+5) Visualization:   Visualization folder
 
-![](https://github.com/penadorada/TFM/blob/master/VISUALIZATION/Rplot01.png)
+![](https://github.com/penadorada/TFM/blob/master/VISUALIZATION/choromad2.png)
 
 #### TECHNOLOGY
 
