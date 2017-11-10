@@ -1,12 +1,12 @@
-# TFM
 
-## DATA SCIENCE MASTER PROJECT 
 
-## GOAL
+### DATA SCIENCE MASTER PROJECT 
+
+#### GOAL
 
 - Build a decision  tool for landlords in order to maximize real state income in MADRID. Residential vs Vacational rents
 
-## WORKFLOW
+#### WORKFLOW
 
 1) DATA GATHERING ---> Datasets folder (all files required to run code).
 
@@ -19,7 +19,7 @@
 5) VISUALIAZTION-----> Visualization folder
 
 
-## TECHNOLOGY
+#### TECHNOLOGY
 
 Python,R,Linux shell.
 
@@ -38,7 +38,7 @@ R libraries:
 - dummies
 - ggmap
 
-## AUTHOR
+#### AUTHOR
 Gonzalo Rodríguez
 
 
