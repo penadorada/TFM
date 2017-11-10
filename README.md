@@ -18,7 +18,7 @@
 
 5) VISUALIAZTION-----> Visualization folder
 
-![](file:///home/dsc/Master-IV/PROYECTO_FM/dashboard2.png)
+![](https://github.com/penadorada/TFM/blob/master/VISUALIZATION/Rplot01.png)
 
 #### TECHNOLOGY
 
