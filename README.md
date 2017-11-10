@@ -31,6 +31,7 @@ Python,R,Linux shell.
 Python modules required:
 - Folium 
 - Shapely
+- Geopandas
 - Plotly
 . Dash
 
