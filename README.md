@@ -18,8 +18,7 @@
 
 5) VISUALIAZTION-----> Visualization folder
 
-file:///home/dsc/Master-IV/PROYECTO_FM/dashboard2.png
-
+![](file:///home/dsc/Master-IV/PROYECTO_FM/dashboard2.png)
 
 #### TECHNOLOGY
 
