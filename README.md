@@ -7,20 +7,21 @@
 - Idealista dataset
 
 #### GOAL
-
-- Build a decision  tool for landlords in order to maximize real state income in MADRID. Residential vs Vacation rentals.
+- Target: Landlords willing to rent their properties.
+- Build a decision  tool to maximize real state income in MADRID. Residential vs Vacation rentals.
 
 #### WORKFLOW
+1) "Memoria".
 
-1) Data Gathering:  Datasets folder (all files required to run code).
+2) Data Gathering:  Datasets folder (all files required to run code).
 
-2) Data Cleaning:   Data cleaning Folder.
+3) Data Cleaning:   Data cleaning Folder.
 
-3) Modelling:       Data Analysis folder (Linear Regression & Machine Learning).
+4) Modelling:       Data Analysis folder (Linear Regression & Machine Learning).
 
-4) Data Analysis:   Idealista_Airbnb folder.
+5) Data Analysis:   Idealista_Airbnb folder.
 
-5) Visualization:   Visualization folder.
+6) Visualization:   Visualization folder.
 
 ![](https://github.com/penadorada/TFM/blob/master/VISUALIZATION/choromad2.png)
 
