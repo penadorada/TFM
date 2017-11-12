@@ -7,8 +7,12 @@
 - Idealista dataset
 
 #### GOAL
-- Target: Landlords willing to rent their properties.
-- Build a decision  tool to maximize real state income in MADRID. Residential vs Vacation rentals.
+
+- Build a decision tool to maximize real state income in MADRID. Residential vs Vacation rentals.
+
+#### TARGET
+
+- Madrid landlords
 
 #### WORKFLOW
 1) "Memoria".
