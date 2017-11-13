@@ -17,7 +17,7 @@ library(ggplot2)
 library(corrplot)
 #..............................................................................................................
 
-##### 1) READ, EXPLORE, VISUALIZE "RLM.csv". File, cleaned and ready to be analized.  
+##### 1) READ, EXPLORE, VISUALIZE "RLM.csv". File, cleaned and ready to be analyzed.  
 reg <- read.csv('RLM.csv',stringsAsFactors = TRUE)
 glimpse(reg)
 summary(reg)
@@ -169,11 +169,11 @@ summary(disp)
 #    response-predictor relationships.
 plot(disp)
 
-# 2) Equal Variance: residuals vs fitted plot shows lack of homocedasticity.
-plot(dispb)
+# 2) Equal Variance: residuals vs fitted plot shows heterocedasticity.
+plot(disp)
 
-# 3) Normal distribution: ok, residuals follow a Normal distribution.
-hist(dispb$residuals)
+# 3) Normal distribution: ok, residuals follow a normal distribution.
+hist(disp$residuals)
 
 # 4) Cov(e) = 0. Resduals correlation check  through Durbin-Watson test.
 durbinWatsonTest(disp)
@@ -210,7 +210,7 @@ durbinWatsonTest(disp)
 
 # 1) Avoid the following districts: Vallecas, Fuerncarral, Barajas, Carabanchel.
 # 2) If possible, overweight districts Centro and Salamanca.
-# 3) List Entire homes or appartments. Ignore rooms.
+# 3) List Entire homes or apartments. Ignore rooms.
 # 4) Set the following parameters:
 #     - Location exact: yes
 #     - Verify host id: yes
