@@ -31,7 +31,7 @@
 
 Python,R,Linux shell.
 
-Python modules required:
+Python libraries:
 - Folium 
 - Shapely
 - Geopandas
