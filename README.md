@@ -27,7 +27,7 @@
 
 6) Visualization:   Visualization folder.
 
-![](https://github.com/penadorada/TFM/blob/master/VISUALIZATION/Mad_choro.png)
+![](https://github.com/penadorada/TFM/blob/master/VISUALIZATION/choro2.png)
 
 #### TECHNOLOGY
 
